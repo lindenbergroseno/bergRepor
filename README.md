@@ -10,5 +10,7 @@
  JDBC api;
  Spring data JPA;
  
- Seguem duas versões do sistema. Uma mais verbosa tendo como base o Java 8, mvc com fachada e servlets, e a segunda tendo o Spring boot como ferramenta de desenvolvimento.  
+ Seguem duas versões do sistema. Uma mais verbosa tendo como base o Java 8, mvc com fachada e servlets, e a segunda tendo o Spring boot como ferramenta de desenvolvimento. 
+ 
+ A versão java 8 com servlets, MV DESAFIO FINACEIRO E CONTABIL, foi desenvolvido um webservice com o apache / tomcat e o axis2-1.6.2 com dois ambientes, servidor e cliente.
  
