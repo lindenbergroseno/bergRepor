@@ -1,5 +1,5 @@
 # bergRepor
- No desafio foi utilzado as seguintes dependencias:
+ No desafio foi utilzado as seguintes dependências:
  
  Spring boot 2.4.4;
  Maven;
